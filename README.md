@@ -11,7 +11,6 @@ Acnetify is a machine learning project designed to classify different types of a
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
@@ -35,7 +34,7 @@ Acnetify leverages several CNN architectures, starting from custom model, ResNet
     - Place the dataset in the appropriate directory.
 
 2. Train the model:
-    - Open and run the provided Jupyter Notebook in Google Colab.
+    - Open and run the provided Jupyter Notebook.
     - The notebook will guide you through data augmentation, model training, and evaluation.
 
 3. Evaluate the model:
@@ -64,9 +63,6 @@ We welcome contributions to the Acnetify project. To contribute, please follow t
     ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/MIT) file for more details.
 
 ## Acknowledgements
 
