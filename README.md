@@ -68,5 +68,6 @@ We welcome contributions to the Acnetify project. To contribute, please follow t
 
 - [Kaggle](https://www.kaggle.com/)
 - [Roboflow](https://roboflow.com/)
+- [Deepnote](https://deepnote.com/)
 - [Google Colab](https://colab.research.google.com/)
 - [TensorFlow](https://www.tensorflow.org/)
